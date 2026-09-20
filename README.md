@@ -47,7 +47,7 @@ Descriptions longer than 15 characters are truncated. Invalid commands are retur
 ## Uploading
 
 1. Install the Adafruit RGB LCD Shield library in the Arduino IDE.
-2. Open `EmbeddedSystemsProject.ino`.
+2. Open `lcd-channel-monitor.ino`.
 3. Select the connected board and serial port.
 4. Upload the sketch and connect at 9,600 baud.
 
